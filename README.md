@@ -1,4 +1,4 @@
-# vue-banner
+# vue-banner-small
 
 > A Vue.js project
 
