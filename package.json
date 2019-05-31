@@ -1,9 +1,9 @@
 {
-  "name": "vue-banner",
+  "name": "vue-banner-small",
   "description": "A Vue.js banner",
   "version": "1.0.0",
   "author": "David",
-  "main": "dist/vue-slider.js",
+  "main": "dist/vue-banner.js",
   "license": "MIT",
   "private": false,
   "scripts": {
